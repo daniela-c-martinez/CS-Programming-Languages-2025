@@ -13,7 +13,7 @@ SNHU C++/ Project Three
   * I believe it was the most challenging to implement several files for this code, the header, and two .cpp files in a properly formatted way. I used my previous work from this course, specifically the banking app in Project Two. The project helped me understand how to improve for the grocery app in Project Three. It aided me in the understanding of keeping main.cpp a more clean file, which allowed me to take this into consideration and create a main file with very minimal code and only a run function.
   
 5. What skills from this project will be particularly transferable to other projects or course work?
-   * Some skills I improved on after creating this assignment was better understanding the use of private and public member functions and how they are important. This is something that will be incredibly applicable to future projects and coursework as keeping certain members private will be necessary when working with other developers. 
+  * Some skills I improved on after creating this assignment was better understanding the use of private and public member functions and how they are important. This is something that will be incredibly applicable to future projects and coursework as keeping certain members private will be necessary when working with other developers. 
   
 6. How did you make this program maintainable, readable, and adaptable?
   * I included in-line comments as well as used proper naming functions to easily identify which section of the code I was working on.
